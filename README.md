@@ -17,10 +17,10 @@ The device, in its core components:
 As aesthetical and emotional artwork, «Mareografie (1) — When above» will be — in its final engineering and packaging — **a wall-mountable, portable, or even wearable** — ***tide cronograph***.
 Unuseful in beating the asphyxiant *instant time* — measured in minutes, seconds, and even milliseconds — of the financial trades in  late capitalism,  a *tide cronograph* is indispensable to beat another rhythm: the quiet blues of tidal waves — *flusso* and *riflusso* — with their composite — daily and seasonal — sinusoidal breaths.  That's what Antonio Rollo calls  a «***long times' clock***»  («*[orologio dei tempi lunghi](http://www.oistros.it/quandodecidemmodicambiareilmondoconilteatro/orologio-del-tempo-lungo-installazione-pubblica-allaperto-con-fari-led-rgb-e-software-personalizzato/)*», in Italian).
 
->Daily tide breath in Bari, over the last day
+>Daily tide breath in Bari, over the last day:
 ![Daily tide breath in Bari, over the last day](daily_tide_breath_in_bari.png)
 
->Seasonal tide breath in Bari, over the last 12 months
+>Seasonal tide breath in Bari, over the last 12 months:
 ![Seasonal tide breath in Bari, over the last 12 months](seasonal_tide_breath_in_bari.png)
 
 «Mareografie (1) — When above» is also an urgent *timer* about the impacts of human activity on the Earth, shaped by the growing horizon of **climate change and sea level rise**, and involving territories, narratives, knowledges and practices, as John Palmesino and Ann-Sofi Rönnskog write in «[*Oceans in Transformation - When Above*](https://www.e-flux.com/architecture/oceans/331872/when-above/)». «*When above*» comes from the opening lines of the Mesopotamian creation myth Enûma Eliš, inscribed on seven clay tablets in Old Babylonian Akkadian Cuneiform language:
