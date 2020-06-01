@@ -2,6 +2,16 @@
 
 # When above — Alta e bassa marea
 
+
++ [«When above — Alta e bassa marea».](#-when-above---alta-e-bassa-marea-)
++ [Technical device](#technical-device)
++ [Emotional artwork](#emotional-artwork)
++ [HOW-TOs](#how-tos)
+   - [Hardware components](#hardware-components)
+   - [Cable wiring](#cable-wiring)
+   - [Raspberry Pi configuration — Enabling SPI peripheral](#raspberry-pi-configuration---enabling-spi-peripheral)
+   - [Software installation and running](#software-installation-and-running)
+
 ### «When above — Alta e bassa marea».
 «*When above — Alta e bassa marea*» is an **IoT (Internet of Things) device** that gets the current sea level measurements — *alta e bassa marea* — in the nearby of Italian coastal towns, and draws them on a 8X8 LED panel, by turning on/off LED elements continuously and iteratively.
 
