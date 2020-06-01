@@ -54,8 +54,8 @@ The visual artist Grazia Tagliente is involved in making «*When above — Alta 
 #### Hardware components
 
 Required hardware components are:
-|   |   |
-|:---:| :---|
+| Component | Quantity and technical reference  |
+| :---| :--- |
 | ![Raspberry Pi 4 Model B](resources/hardware/raspberry_pi4_model_b.png) | 1 Raspberry Pi Model B single board computer (here a Raspberry Pi 4 Model B). |
 | ![MAX7219 8x8 Dot Matrix MCU LED](resources/hardware/max7219_dot_matrix_module.png) | 1 MAX7219 8x8 Dot Matrix MCU LED module. |
 | ![Jumper Wire Cable F2F](resources/hardware/jumper_wire_cable_f2f.png) | 5 Female to Female jumper wires. |
@@ -85,7 +85,7 @@ Click the *OK* button. If prompted to reboot select *Yes* so that the changes wi
 
 ![Raspberry Pi SPI configuration](resources/hardware/spi_configuration_02.png)
 
-Alternatively, you can enable SPI peripheral running the command line utility *raspi-config*:
+Alternatively, you can enable SPI peripheral running in the command line the utility *raspi-config*:
 ```
 sudo raspi-config
 ```
