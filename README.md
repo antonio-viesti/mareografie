@@ -53,7 +53,7 @@ The visual artist Grazia Tagliente is involved in making «*When above — Alta 
 
 #### Hardware components
 
-Required hardware components are:
+Get the required hardware components:
 | Component | Quantity and technical reference  |
 | :---| :--- |
 | ![Raspberry Pi 4 Model B](resources/hardware/raspberry_pi4_model_b.png) | 1 Raspberry Pi Model B single board computer (here a Raspberry Pi 4 Model B). |
@@ -63,7 +63,7 @@ Required hardware components are:
 
 #### Cable wiring
 
-Connect the hardware component following this scheme:
+Connect the hardware components following this scheme:
 
 | MAX7219 Dot Matrix LED Pin | Raspberry Pi Pin |
 |:---| :---|
@@ -77,7 +77,7 @@ Connect the hardware component following this scheme:
 
 #### Raspberry Pi configuration — Enabling SPI peripheral
 
-The Raspberry Pi SPI peripheral is not turned on by default. To enable it, use the graphical tool *Raspberry Pi Configuration* (in Menu > Preferences > Raspberry Pi Configuration):
+Turn on the Raspberry Pi SPI peripheral. The SPI peripheral is not turned on by default: to enable it, use the graphical tool *Raspberry Pi Configuration* (in *Menu > Preferences > Raspberry Pi Configuration*):
 
 ![Raspberry Pi SPI configuration](resources/hardware/spi_configuration_01.png)
 
@@ -85,7 +85,7 @@ Click the *OK* button. If prompted to reboot select *Yes* so that the changes wi
 
 ![Raspberry Pi SPI configuration](resources/hardware/spi_configuration_02.png)
 
-Alternatively, you can enable SPI peripheral running in the command line the utility *raspi-config*:
+Alternatively, you can enable SPI peripheral by running the utility *raspi-config* in the command line:
 ```
 sudo raspi-config
 ```
@@ -98,7 +98,7 @@ mkdir ~/github_projects
 cd ~/github_projects
 ```
 
-Checkout the project:
+Clone the project:
 ```
 git clone https://github.com/antonio-viesti/mareografie.git
 cd mareografie
@@ -110,7 +110,7 @@ python3 -m venv ~/github_projects/mareografie/.mareografie
 source ~/github_projects/mareografie/.mareografie/bin/activate
 ```
 
-Install the required Python packages:
+Install all required Python packages:
 ```
 pip install --upgrade pip
 pip install --upgrade setuptools
@@ -119,7 +119,12 @@ pip install --upgrade pandas
 pip install --upgrade luma.led_matrix
 ```
 
-Run the application:
+Run some diagnostics on the LED panel:
+```
+python mareografie/led_panel/led_panel_drawings.py
+```
+
+Make sure you're connected to the internet, and run the application:
 ```
 python mareografie/when_above.py
 ```
