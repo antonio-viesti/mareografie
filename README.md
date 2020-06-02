@@ -55,10 +55,10 @@ the gods Lahmu and Lahamu they caused to come ...*»
 
 The visual artist Grazia Tagliente is involved in making «*When above — Alta e bassa marea*» as a tangible artifact, putting togheter — in a creative assembly — LED panel, IoT electronics, and hand-made precious *gyotaku* printings wich represent typical Mediterranean fishes. Gyotaku — 魚拓, from «*gyo* (fish) and «*taku*» (impression) — is a traditional Japanese method of printmaking of fishes and sea animals, using *sumi* ink and *washi* paper.
 
-| . | . |
-| :--- | :--- |
-| ![photo](resources/photos/20200602_113508.jpg) | ![photo](resources/photos/20200602_113528.jpg) |
-| ![photo](resources/photos/20200602_113459.jpg) | ![photo](resources/photos/20200602_113541.jpg) |
+| . | . | . |
+| :--- | :--- | :--- |
+| ![photo](resources/photos/20200602_113508.jpg) | ![photo](resources/photos/20200602_113002.jpg) | ![photo](resources/photos/20200602_113528.jpg) |
+| ![photo](resources/photos/20200602_113459.jpg) | ![photo](resources/photos/20200602_113541.jpg) | ![photo](resources/photos/20200602_113001.jpg) |
 
 ### HOW-TOs
 
