@@ -15,7 +15,7 @@
 #### Hardware components
 
 Get the required hardware components:
-| Component | Quantity and technical reference  |
+| . | . |
 | :---| :--- |
 | ![Raspberry Pi 4 Model B](resources/hardware/raspberry_pi4_model_b.png) | 1 Raspberry Pi Model B single board computer (here a Raspberry Pi 4 Model B). |
 | ![MAX7219 8x8 Dot Matrix MCU LED](resources/hardware/max7219_dot_matrix_module.png) | 1 MAX7219 8x8 Dot Matrix MCU LED module. |
