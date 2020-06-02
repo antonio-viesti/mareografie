@@ -2,8 +2,9 @@
 
 # When above — Alta e bassa marea
 
+![«When above — Alta e bassa marea»](resources/photos/20200602_112612.jpg)
 
-+ [«When above — Alta e bassa marea».](#-when-above---alta-e-bassa-marea-)
++ [«When above — Alta e bassa marea»](#-when-above---alta-e-bassa-marea-)
 + [Technical device](#technical-device)
 + [Emotional artwork](#emotional-artwork)
 + [HOW-TOs](#how-tos)
@@ -14,6 +15,11 @@
 
 ### «When above — Alta e bassa marea».
 «*When above — Alta e bassa marea*» is an **IoT (Internet of Things) device** that gets the current sea level measurements — *alta e bassa marea* — in the nearby of Italian coastal towns, and draws them on a 8X8 LED panel, by turning on/off LED elements continuously and iteratively.
+
+| . | . | . | . |
+| :--- | :--- | :--- | :--- |
+| ![photo](resources/photos/20200602_112107.jpg) | ![photo](resources/photos/20200602_112125.jpg) | ![photo](resources/photos/20200602_112155.jpg) | ![photo](resources/photos/20200602_112212.jpg) |
+| ![photo](resources/photos/20200602_112606.jpg) | ![photo](resources/photos/20200602_112608.jpg) | ![photo](resources/photos/20200602_112708.jpg) | ![photo](resources/photos/20200602_112713.jpg) |
 
 ### Technical device
 
@@ -45,9 +51,14 @@ a tree had not grown, a flower had not unfolded.
 When the gods had not sprung up, any one of them;
 a plant had not grown, and order did not exist;
 Were made also the great gods,
-the gods Lahmu and Lahamu they caused to come ...* »
+the gods Lahmu and Lahamu they caused to come ...*»
 
 The visual artist Grazia Tagliente is involved in making «*When above — Alta e bassa marea*» as a tangible artifact, putting togheter — in a creative assembly — LED panel, IoT electronics, and hand-made precious *gyotaku* printings wich represent typical Mediterranean fishes. Gyotaku — 魚拓, from «*gyo* (fish) and «*taku*» (impression) — is a traditional Japanese method of printmaking of fishes and sea animals, using *sumi* ink and *washi* paper.
+
+| . | . |
+| :--- | :--- | :--- | :--- |
+| ![photo](resources/photos/20200602_113508.jpg) | ![photo](resources/photos/20200602_113528.jpg) |
+| ![photo](resources/photos/20200602_113459.jpg) | ![photo](resources/photos/20200602_113541.jpg) |
 
 ### HOW-TOs
 
