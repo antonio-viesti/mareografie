@@ -7,7 +7,7 @@
 + [«When above — Alta e bassa marea»](#-when-above---alta-e-bassa-marea-)
 + [Technical device](#technical-device)
 + [Emotional artwork](#emotional-artwork)
-+ [HOW-TOs](#how-tos)
++ [How to](#how-tos)
 
 ### «When above — Alta e bassa marea».
 «*When above — Alta e bassa marea*» is an **IoT (Internet of Things) device** that gets the current sea level measurements — *alta e bassa marea* — in the nearby of Italian coastal towns, and draws them on a 8X8 LED panel, by turning on/off LED elements continuously and iteratively.
@@ -56,6 +56,6 @@ The visual artist Grazia Tagliente is involved in making «*When above — Alta 
 | ![photo](docs/resources/photos/20200602_113508.jpg) | ![photo](docs/resources/photos/20200602_113002.jpg) | ![photo](docs/resources/photos/20200602_113528.jpg) |
 | ![photo](docs/resources/photos/20200602_113459.jpg) | ![photo](docs/resources/photos/20200602_113541.jpg) | ![photo](docs/resources/photos/20200602_113001.jpg) |
 
-### HOW-TOs
+### How to
 
 [**How to...**](docs/howto.md)
