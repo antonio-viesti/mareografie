@@ -2,7 +2,7 @@
 
 # When above — Alta e bassa marea
 
-![«When above — Alta e bassa marea»](docs/resources/photos/20200602_112612.jpg)
+[![«When above — Alta e bassa marea»](docs/resources/photos/20200602_112612.jpg)](https://player.vimeo.com/video/425180292)
 
 + [«When above — Alta e bassa marea»](#-when-above---alta-e-bassa-marea-)
 + [Technical device](#technical-device)
@@ -25,8 +25,6 @@ The device, in its core components:
 - Ingests the current — and historical — hydrometric data from the Italian *[**ISPRA**](https://www.isprambiente.gov.it/en/)* - *[Rete Mareografica Nazionale - National Tidegauge Network](http://dati.isprambiente.it/)*. The Italian *ISPRA - Rete Mareografica Nazionale - National Tidegauge Network* is composed of 36 monitoring stations — powered by solar panels — located in Ancona, Anzio, Bari, Cagliari, Carloforte, Catania, Civitavecchia, Crotone, Gaeta, Genova, Ginostra, Imperia, La Spezia, Lampedusa, Livorno, Marina di Campo, Messina, Napoli, Ortona, Otranto, Palermo, Palinuro, Ponza, Porto Empedocle, Porto Torres, Ravenna, Reggio Calabria, Salerno, San Benedetto del Tronto, Sciacca, Strombolicchio, Taranto, Tremiti, Trieste, Valona, Venezia, and Vieste.
 - Processes — statistically — the time series of hydrometric level measurements — throught a common data science technique of *discretization over quantiles,* which enrichs data with *historical awareness*.
 - Draws — continuously and iteratively — the hydrometric levels over a low-resolution monochromatic 8X8 LED panel, composing a boolean *level matrix*, and displaying it turning on/off the LED elements.
-
-<iframe src="https://player.vimeo.com/video/425180292" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Emotional artwork
 
