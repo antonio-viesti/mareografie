@@ -4,11 +4,11 @@
 
 [![«When above — Alta e bassa marea»](docs/resources/photos/20200602_112612.jpg)](https://player.vimeo.com/video/425180292)
 
-+ [«When above — Alta e bassa marea»](#-when-above---alta-e-bassa-marea-)
-+ [Technical device](#technical-device)
-+ [Emotional artwork](#emotional-artwork)
-+ [How-to](#how-tos)
-+ [Contributors](#contributors)
++ [**«When above — Alta e bassa marea»**](#-when-above---alta-e-bassa-marea-)
++ [**Technical device**](#technical-device)
++ [**Emotional artwork**](#emotional-artwork)
++ [**How-to**](#how-tos)
++ [**Contributors**](#contributors)
 
 ### «When above — Alta e bassa marea».
 «*When above — Alta e bassa marea*» is an **IoT (Internet of Things) device** that gets the current sea level measurements — *alta e bassa marea* — in the nearby of Italian coastal towns, and draws them on a 8X8 LED panel, by turning on/off LED elements continuously and iteratively.
