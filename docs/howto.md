@@ -4,13 +4,13 @@
 
 ![«When above — Alta e bassa marea»](resources/photos/20200602_112612.jpg)
 
-+ [HOW-TOs](#how-tos)
++ [How-to](#how-to)
    - [Hardware components](#hardware-components)
    - [Cable wiring](#cable-wiring)
    - [Raspberry Pi configuration — Enabling SPI peripheral](#raspberry-pi-configuration---enabling-spi-peripheral)
    - [Software installation and running](#software-installation-and-running)
 
-### HOW-TOs
+### How-to
 
 #### Hardware components
 
@@ -20,7 +20,6 @@ Get the required hardware components:
 | ![Raspberry Pi 4 Model B](resources/hardware/raspberry_pi4_model_b.png) | 1 Raspberry Pi Model B single board computer (here a Raspberry Pi 4 Model B). |
 | ![MAX7219 8x8 Dot Matrix MCU LED](resources/hardware/max7219_dot_matrix_module.png) | 1 MAX7219 8x8 Dot Matrix MCU LED module. |
 | ![Jumper Wire Cable F2F](resources/hardware/jumper_wire_cable_f2f.png) | 5 Female to Female jumper wires. |
-
 
 #### Cable wiring
 
