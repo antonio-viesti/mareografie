@@ -66,7 +66,7 @@ The visual artist Grazia Tagliente is involved in making «*When above — Alta 
 
 ### Contributors
 
-My thanks to:
+Thanks to:
 
 - Giampiero Rosa, for his knowledge in sea stuff.
 - Stefano Tonetto, for his knowledge in electronics.
