@@ -6,8 +6,8 @@
 
 + [**Hardware components**](#hardware-components)
 + [**Cable wiring**](#cable-wiring)
-+ [**Raspberry Pi configuration: enabling SPI peripheral**](#raspberry-pi-configuration:-enabling-spi-peripheral)
-+ [**Raspberry Pi configuration: installing required packages**](#raspberry-pi-configuration:-installing-required-packages)
++ [**Raspberry Pi configuration: enabling SPI peripheral**](#raspberry-pi-configuration--enabling-spi-peripheral)
++ [**Raspberry Pi configuration: installing required packages**](#raspberry-pi-configuration--installing-required-packages)
 + [**Software installation and running**](#software-installation-and-running)
 
 ### Hardware components
