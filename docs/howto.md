@@ -6,8 +6,8 @@
 
 + [**Hardware components**](#hardware-components)
 + [**Cable wiring**](#cable-wiring)
-+ [**Raspberry Pi configuration: enabling SPI peripheral**](#raspberry-pi-configuration--enabling-spi-peripheral)
-+ [**Raspberry Pi configuration: installing required packages**](#raspberry-pi-configuration--installing-required-packages)
++ [**Raspberry Pi configuration - Enabling SPI peripheral**](#raspberry-pi-configuration---enabling-spi-peripheral)
++ [**Raspberry Pi configuration - Installing required packages**](#raspberry-pi-configuration---installing-required-packages)
 + [**Software installation and running**](#software-installation-and-running)
 
 ### Hardware components
@@ -33,7 +33,7 @@ Connect the hardware components following this scheme:
 
 ![Cable wiring](resources/hardware/cable_wiring.png)
 
-### Raspberry Pi configuration: enabling SPI peripheral
+### Raspberry Pi configuration - Enabling SPI peripheral
 
 Turn on the Raspberry Pi SPI peripheral. The SPI peripheral is not turned on by default: to enable it, use the graphical tool *Raspberry Pi Configuration* (in *Menu > Preferences > Raspberry Pi Configuration*):
 
@@ -48,7 +48,7 @@ Alternatively, you can enable SPI peripheral by running the utility *raspi-confi
 sudo raspi-config
 ```
 
-### Raspberry Pi configuration: installing required packages
+### Raspberry Pi configuration - Installing required packages
 
 *[**Pandas**](https://pandas.pydata.org/)* — a fast, powerful and flexible data analysis and manipulation tool — requires the installation of the following packages:
 ```
