@@ -55,7 +55,7 @@ sudo raspi-config
 sudo apt install libatlas-base-dev
 ```
 
-*[**Luma.LED_Matrix**](https://github.com/rm-hull/luma.led_matrix)* — a Python module to drive LED Matrices, 7-Segment Displays (MAX7219) and RGB NeoPixels (WS2812 / APA102) — requires the installation of the following packages:
+*[**Luma.LED_Matrix**](https://github.com/rm-hull/luma.led_matrix)* — a module to drive LED Matrices, 7-Segment Displays (MAX7219) and RGB NeoPixels (WS2812 / APA102) — requires the installation of the following packages:
 ```
 sudo apt install libfreetype6-dev
 sudo apt install libjpeg-dev
