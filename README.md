@@ -27,6 +27,10 @@ The device, in its core components:
 - Processes — statistically — the time series of hydrometric level measurements — throught a common data science technique of *discretization over quantiles,* which enrichs data with *historical awareness*.
 - Draws — continuously and iteratively — the hydrometric levels over a low-resolution monochromatic 8X8 LED panel, composing a boolean *level matrix*, and displaying it by turning on/off the LED elements.
 
+| . | . |
+| :--- | :--- |
+| ![photo](docs/resources/photos/20200509_201130.jpg) | ![photo](docs/resources/photos/20200509_201141.jpg) |
+
 ### Emotional artwork
 
 As aesthetical and emotional artwork, «*When above — Alta e bassa marea*» will be — in its final engineering and packaging — **a wall-mountable, portable, or even wearable** — ***tide cronograph***.
